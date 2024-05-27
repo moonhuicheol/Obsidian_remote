@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "1a40f506cc1827ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c77a0457153e9bb",
+        "type": "tabs",
+        "dimension": 77.47678018575851,
+        "children": [
+          {
+            "id": "b8bd079ab6fc0310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모던자바스크립트/4장 변수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe0b16ee80b8990e",
+        "type": "tabs",
+        "dimension": 22.523219814241482,
+        "children": [
+          {
+            "id": "742d45d2534a5dfd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b2d76658e392797",
+    "type": "split",
+    "children": [
+      {
+        "id": "372f1007d791e86e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bc0bde7c6e4b53f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "662f123925b5e069",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "g",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "394eb2d6cac7afc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "225adbde848ca249",
+    "type": "split",
+    "children": [
+      {
+        "id": "54c26c99ab974d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eea7bd55166e72f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "모던자바스크립트/4장 변수.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2809675d1cd6ad17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "모던자바스크립트/4장 변수.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01dd07558b35b79b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d82f3997d5c03ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "모던자바스크립트/4장 변수.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "b8bd079ab6fc0310",
+  "lastOpenFiles": [
+    "4장 변수",
+    "무제 파일.md",
+    "4장 변수/4장 변수.md",
+    "4장 변수/Screenshot_20240527-185412.png",
+    "파일추가.md",
+    "dd.md"
+  ]
+}
